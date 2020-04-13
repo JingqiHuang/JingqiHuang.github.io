@@ -1,0 +1,4 @@
+{
+"10":{"wifi":true,"trafic":["ping","upload"],"pcap":true},
+"11":{"wifi":false,"trafic":["ping","upload"],"pcap":true}
+}
